@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Materials\\LoadBalancer\\mainAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA21221-3FAC-4C93-9E17-6383042E397B}|..\\yarp.loadbalancer\\yarp.loadbalancer.csproj|d:\\study materials\\loadbalancer\\yarp.loadbalancer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA21221-3FAC-4C93-9E17-6383042E397B}|..\\yarp.loadbalancer\\yarp.loadbalancer.csproj|d:\\study materials\\loadbalancer\\yarp.loadbalancer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7378C11A-87C4-49AF-BED6-B9BA927A7C7D}|mainAPI\\mainAPI.csproj|d:\\study materials\\loadbalancer\\mainapi\\mainapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7378C11A-87C4-49AF-BED6-B9BA927A7C7D}|mainAPI\\mainAPI.csproj|solutionrelative:mainapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA21221-3FAC-4C93-9E17-6383042E397B}|..\\yarp.loadbalancer\\yarp.loadbalancer.csproj|d:\\study materials\\loadbalancer\\yarp.loadbalancer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D360EA70-BB0D-46BC-81DB-CDD1B5F07FDC}|..\\weather1\\weather1.csproj|d:\\study materials\\loadbalancer\\weather1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9CEE57-A971-4A71-B31B-57B5B1488FC7}|..\\weather2\\weather2.csproj|d:\\study materials\\loadbalancer\\weather2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7378C11A-87C4-49AF-BED6-B9BA927A7C7D}|mainAPI\\mainAPI.csproj|d:\\study materials\\loadbalancer\\mainapi\\mainapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7378C11A-87C4-49AF-BED6-B9BA927A7C7D}|mainAPI\\mainAPI.csproj|solutionrelative:mainapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D360EA70-BB0D-46BC-81DB-CDD1B5F07FDC}|..\\weather1\\weather1.csproj|d:\\study materials\\loadbalancer\\weather1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7378C11A-87C4-49AF-BED6-B9BA927A7C7D}|mainAPI\\mainAPI.csproj|d:\\study materials\\loadbalancer\\mainapi\\mainapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7378C11A-87C4-49AF-BED6-B9BA927A7C7D}|mainAPI\\mainAPI.csproj|solutionrelative:mainapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study Materials\\LoadBalancer\\weather2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\weather2\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study Materials\\LoadBalancer\\weather2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\weather2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T04:03:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study Materials\\LoadBalancer\\mainAPI\\mainAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "mainAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study Materials\\LoadBalancer\\mainAPI\\mainAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "mainAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T04:09:40.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study Materials\\LoadBalancer\\yarp.loadbalancer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\yarp.loadbalancer\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study Materials\\LoadBalancer\\yarp.loadbalancer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\yarp.loadbalancer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T03:59:21.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study Materials\\LoadBalancer\\weather1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\weather1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study Materials\\LoadBalancer\\weather1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\weather1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T03:59:15.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study Materials\\LoadBalancer\\weather1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\weather1\\Program.cs",
+              "ToolTip": "D:\\Study Materials\\LoadBalancer\\weather1\\Program.cs",
+              "RelativeToolTip": "..\\weather1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:58:06.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Study Materials\\LoadBalancer\\mainAPI\\mainAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "mainAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Study Materials\\LoadBalancer\\mainAPI\\mainAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "mainAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:45:58.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study Materials\\LoadBalancer\\yarp.loadbalancer\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\yarp.loadbalancer\\appsettings.json",
+              "ToolTip": "D:\\Study Materials\\LoadBalancer\\yarp.loadbalancer\\appsettings.json",
+              "RelativeToolTip": "..\\yarp.loadbalancer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T02:46:42.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study Materials\\LoadBalancer\\mainAPI\\mainAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "mainAPI\\appsettings.json",
+              "ToolTip": "D:\\Study Materials\\LoadBalancer\\mainAPI\\mainAPI\\appsettings.json",
+              "RelativeToolTip": "mainAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T04:27:27.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study Materials\\LoadBalancer\\yarp.loadbalancer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\yarp.loadbalancer\\Program.cs",
+              "ToolTip": "D:\\Study Materials\\LoadBalancer\\yarp.loadbalancer\\Program.cs",
+              "RelativeToolTip": "..\\yarp.loadbalancer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:38:25.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+1ts7StLSgG6v14tFfsqnCwEQlzgKJvksIVpwQhKgZA=",
+  "Source": "yarp.loadbalancer",
+  "BasePath": "_content/yarp.loadbalancer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

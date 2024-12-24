@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1dSkqmnKLH4yOKObajvh5jjfVDmYSqUZ4xuNuqr/96c=",
+  "Source": "weather1",
+  "BasePath": "_content/weather1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
